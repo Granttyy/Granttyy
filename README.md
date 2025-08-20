@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Genesis  
+# 👋 Hi, I'm Genesis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
 
-💻 **Computer Science Student | Aspiring Cloud & DevOps Engineer | Tech Enthusiast**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=1ABC9C&lines=Computer+Science+Student;Aspiring+Cloud+%26+DevOps+Engineer;Always+Learning+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 ---
 
