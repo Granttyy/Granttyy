@@ -31,17 +31,11 @@
 
 ---
 
-### ✨ Featured Projects  
-🔹 [**UniFinder**](https://github.com/GenesisGrant/UniFinder) – AI-powered school recommender system  
-🔹 [**Cloud Resume Challenge**](https://github.com/GenesisGrant/Cloud-Resume) – Cloud Engineer project with CI/CD  
-🔹 [**CloudTasker**](https://github.com/GenesisGrant/CloudTasker) – Serverless to-do app with authentication  
-
----
 
 ### 🌐 Connect With Me  
 <p>
   <a href="https://linkedin.com/in/genesisgrant" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:genchetaeh@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:genesisgrantvivero@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>  
 
 ---
