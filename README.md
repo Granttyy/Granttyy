@@ -31,10 +31,9 @@
 
 ---
 
-
 ### 🌐 Connect With Me  
 <p>
-  <a href="https://linkedin.com/in/genesisgrant" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/genesis-grant-vivero-861519364/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:genesisgrantvivero@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>  
 
