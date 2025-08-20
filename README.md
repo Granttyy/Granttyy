@@ -39,4 +39,4 @@
 
 ---
 
-⭐️ _“Building. Learning. Growing.”_  
+⭐️ _“Discipline over motivation.”_  
