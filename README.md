@@ -73,4 +73,4 @@ React · Tailwind CSS · Email Integration · Vercel
 
 ---
 
-⭐️ _“Discipline over motivation.”_  
+⭐️ _“continuous learning.”_  
