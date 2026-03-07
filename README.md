@@ -1,13 +1,12 @@
 ## Hi, I'm Genesis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=1ABC9C&lines=Computer+Science+Student;Aspiring+Cloud+%26+DevOps+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=1ABC9C&lines=Computer+Science+Student;Aspiring+Backend+%26+DevOps+Engineer;)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me  
-- 🌱 Currently learning **Cloud Engineering (AWS, DevOps, Linux, CI/CD)**  
+- 🌱 Currently learning **(AWS, DevOps, Linux, Backend Architecture)**  
 - 🎓 4th Year **Computer Science Student**  
-- 💡 Passionate about **building projects with FastAPI, React, and cloud tools**  
 - 📊 Interested in **AI, cloud projects, startups, and automation**  
 - 🌍 Based in **Pampanga, Philippines**
 
