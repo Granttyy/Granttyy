@@ -6,7 +6,6 @@
 
 ### 🚀 About Me  
 - 🌱 Currently learning **(AWS, DevOps, Linux, Backend Architecture)**  
-- 🎓 4th Year **Computer Science Student**  
 - 📊 Interested in **AI, cloud projects, startups, and automation**  
 - 🌍 Based in **Pampanga, Philippines**
 
